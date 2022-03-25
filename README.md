@@ -1,22 +1,25 @@
 # Laboratory Experiments:
 
-1. IMPLEMENT AND DEMONSTRATETHE FIND-S ALGORITHM FOR FINDING THE MOST SPECIFIC HYPOTHESIS BASED ON A GIVEN SET OF TRAINING DATA SAMPLES. READ THE TRAINING DATA FROM A .CSV FILE.
+1. Implement and demonstrate the FIND-S algorithm for finding the most specific hypothesis based on a given set of training data samples. Read the training data from a .CSV file.
 
-2. FOR A GIVEN SET OF TRAINING DATA EXAMPLES STORED IN A .CSV FILE, IMPLEMENT AND DEMONSTRATE THE CANDIDATE-ELIMINATION ALGORITHMTO OUTPUT A DESCRIPTION OF THE SET
-   OF ALL HYPOTHESES CONSISTENT WITH THE TRAINING EXAMPLES.
+2. For a given set of training data examples stored in a .CSV file, implement and demonstrate the Candidate-Elimination algorithm to output a description of the set of all hypotheses consistent with the training examples.
 
-3. WRITE A PROGRAM TO DEMONSTRATE THE WORKING OF THE DECISION TREE BASED ID3 ALGORITHM. USE AN APPROPRIATE DATA SET FOR BUILDING THE DECISION TREE AND APPLY THIS KNOWLEDGE TOCLASSIFY A NEW SAMPLE.
+3. Write a program to demonstrate the working of the decision tree based ID3 Algorithm. Use an appropriate data set for building the decision tree and apply this knowledge to classify a new sample.
 
-4. BUILD AN ARTIFICIAL NEURAL NETWORK BY IMPLEMENTING THE BACKPROPAGATION ALGORITHM AND TEST THE SAME USING APPROPRIATE DATA SETS.
+4. Build an Artificial Neural Network by implementing the Backpropagation algorithm and test the same using appropriate data sets.
 
-5. WRITE A PROGRAM TO IMPLEMENT THE NAÏVE BAYESIAN CLASSIFIER FOR A SAMPLE TRAINING DATA SET STORED AS A .CSV FILE. COMPUTE THE ACCURACY OF THE CLASSIFIER, CONSIDERING FEW TEST DATA SETS.
+5. Write a program to implement the naïve Bayesian classifier for a sample training data set stored as a .CSV file. Compute the accuracy of the classifier, considering few test data sets.
 
-6. ASSUMING A SET OF DOCUMENTS THAT NEED TO BE CLASSIFIED, USE THE NAÏVE BAYESIAN CLASSIFIER MODEL TO PERFORM THIS TASK. BUILT-IN JAVA CLASSES/API CAN BE USED TO WRITE THE PROGRAM. CALCULATE THE ACCURACY, PRECISION, AND RECALL FOR YOUR DATA SET.
+6. Assuming a set of documents that need to be classified, use the naïve Bayesian Classifier model to perform this task. Built-in Java classes/API can be used to write the program. Calculate the accuracy, precision, and recall for your data set.
 
-7. WRITE A PROGRAM TO CONSTRUCT ABAYESIAN NETWORK CONSIDERING MEDICAL DATA. USE THIS MODEL TO DEMONSTRATE THE DIAGNOSIS OF HEART PATIENTS USING STANDARD HEART DISEASE DATA SET. YOU CAN USE JAVA/PYTHON ML LIBRARY CLASSES/API.
+7. Write a program to construct a Bayesian network considering medical data. Use this model to demonstrate the diagnosis of heart patients using standard Heart Disease Data Set. You can use Java/Python ML library classes/API
 
-8. APPLY EM ALGORITHM TO CLUSTER A SET OF DATA STORED IN A .CSV FILE. USE THE SAME DATA SET FOR CLUSTERING USING K-MEANS ALGORITHM. COMPARE THE RESULTS OF THESE TWO ALGORITHMS AND COMMENT ON THE QUALITY OF CLUSTERING. YOU CAN ADD JAVA/PYTHON ML LIBRARY CLASSES/API IN THE PROGRAM.
+8. Apply EM algorithm to cluster a set of data stored in a .CSV file. Use the same data set for clustering using k-Means algorithm. Compare the results of these two algorithms and comment on the quality of clustering. You can add Java/Python ML library classes/API in the program.
 
-9. WRITE A PROGRAM TO IMPLEMENT K-NEAREST NEIGHBOUR ALGORITHM TO CLASSIFY THE IRIS DATA SET. PRINT BOTH CORRECT AND WRONG PREDICTIONS. JAVA/PYTHON ML LIBRARY CLASSES CAN BE USED FOR THIS PROBLEM.
+9.  Write a program to implement k-Nearest Neighbour algorithm to classify the iris data set.Print both correct and wrong predictions.Java/Python ML library classes can be used for this problem.
 
-10. IMPLEMENT THE NON-PARAMETRIC LOCALLY WEIGHTED REGRESSIONALGORITHM IN ORDER TO FIT DATA POINTS. SELECT APPROPRIATE DATA SET FOR YOUR EXPERIMENT AND DRAW GRAPHS.
+10. Implement the non-parametric Locally Weighted Regression algorithm in order to fit data points. Select appropriate data set for your experiment and draw graphs.
+
+If you have found this repository usefull, please consider leaving a star.Thank You .
+
+
